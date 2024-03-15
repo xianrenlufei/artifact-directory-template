@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Beyond Text-to-Image: Layout-Grounded Stable Diffusion Optimization for Accurate Image Generation
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
