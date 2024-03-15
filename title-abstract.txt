@@ -18,4 +18,4 @@ with numerical and positional information coherent with the text prompt.
 Through our work, we identify the best coefficients for the above steps us-
 ing Fréchet Inception Distance. In addition, our model also introduces more
 diverse and specific user input through integrating a canvas interface that
-supports specifying image generation subject location, size and color
+supports specifying image generation subject location and size
